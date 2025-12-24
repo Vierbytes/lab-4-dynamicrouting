@@ -2,6 +2,10 @@
 
 A full-featured blog application demonstrating React Router's dynamic routing capabilities, authentication, protected routes, and smooth page transitions.
 
+![Blog App Demo](./public/blog.png)
+
+**Live Demo:** https://dynamic-routin.netlify.app/
+
 ## Project Overview
 
 This application showcases professional routing patterns with React Router, including dynamic routes, authentication flow, and animated page transitions using Framer Motion. Built with React, TypeScript, and Vite.
